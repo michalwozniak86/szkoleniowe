@@ -1,1 +1,5 @@
 Pierwsza linia tekstu.
+Druga linia.
+
+
+Napisana przez Michal.
