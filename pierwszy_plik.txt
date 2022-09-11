@@ -1,3 +1,10 @@
 Pierwsza linia tekstu.
+<<<<<<< HEAD
 Druga linia textu.
 I trzecia.
+=======
+Druga linia.
+
+
+Napisana przez Michal.
+>>>>>>> y
