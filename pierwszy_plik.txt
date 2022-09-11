@@ -1,1 +1,3 @@
 Pierwsza linia tekstu.
+Druga linia textu.
+I trzecia.
